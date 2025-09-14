@@ -1,13 +1,10 @@
-
 import './App.css'
-import Card from './components/Card/Card'
-import Header from './components/Header/Header'
+import Home from './home/home'
 
 function App() {
   return (
     <>
-      <Header></Header>
-      <Card></Card>
+      <Home></Home>
     </>
   )
 }
